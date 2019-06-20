@@ -12,5 +12,5 @@ module load openmpi
 module purge
 module load singularity
 
-containerdir=/home/za2hd/testdir/test4
+containerdir=/home/yks4zg
 singularity run --nv $containerdir/tensorflow-1.12.0-py36.simg analysis_2019.py
