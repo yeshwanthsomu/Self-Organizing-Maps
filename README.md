@@ -1,2 +1,2 @@
 # Self-Organizing-Maps
-Application of SOM's to analysis of SpinQuest data
+Application of SOM's to classification of SpinQuest signal vs background particle data
